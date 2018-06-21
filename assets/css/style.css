@@ -1,8 +1,11 @@
 body{
-	margin: 0;
+	margin: 0px;
 } 
 
 /*css para nav */
+.navbar{
+	margin: 0px;
+}
 .nav__logo{
 	width: 14rem;
 	position: relative;
@@ -15,22 +18,46 @@ body{
 }
 
 /*css para header*/
+.header__tiatomate{
+	padding: 0px;
+
+}
 .header__tituloprincipal{
 	background-color: #e56353;
 	color: white;
 	text-align: center;
 	font-family: Raleway;
+	padding: 0px;
 }
 
 .header__primerparrafo{
-	background-color: #686963;
+	background-color: #707070;
 	color: white;
+	padding: 60px 80px 60px 30px;
+	height: 58.2rem;
+	
+}
+.header__segundoparrafo{
+	padding: 60px 80px 60px 30px;
 }
 .header__images{
+	padding: 0px;
+}
+.header__imagesimg{
 	max-width: 100%;
+	
 }
 
 /*css para section */
-
+.section__titulo{
+	background-color: #e56353;
+	color: white;
+	text-align: center;
+	font-family: Raleway;
+	height: 7rem;
+}
 
 /*css para footer */
+.footer{
+	background-color: #686963;
+}

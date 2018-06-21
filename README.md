@@ -87,7 +87,7 @@ Clases CSS:
    </header>
 
 3. <section>
-	class= section__titulos
+	class= section__titulo
 	class= section__parrafos
 	class= section__images
 	class= section__titulotercero
