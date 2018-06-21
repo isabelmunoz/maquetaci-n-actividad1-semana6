@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+} 
+
+/*css para nav */
+.nav__logo{
+	width: 14rem;
+	position: relative;
+    left: 6rem;
+    bottom: 0.5rem;
+}
+
+.navbar-right{
+	margin-right: 4rem;
+}
+
+/*css para header*/
+.header__tituloprincipal{
+	background-color: #e56353;
+	color: white;
+	text-align: center;
+	font-family: Raleway;
+}
+
+.header__primerparrafo{
+	background-color: #686963;
+	color: white;
+}
+.header__images{
+	max-width: 100%;
+}
+
+/*css para section */
+
+
+/*css para footer */
